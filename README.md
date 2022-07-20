@@ -95,6 +95,6 @@
 
 ## Resources [↑](#pipeline-skeleton)
 
-* [Open-Sourcing Metaflow, a Human-Centric Framework for Data Science](https://netflixtechblog.com/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9)
+* Netflix Metaflow, [Announcement](https://netflixtechblog.com/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9), [Docs](https://docs.metaflow.org/introduction/what-is-metaflow), [Github](https://github.com/Netflix/metaflow)
 * [Testing software - a practical guide to write tests for machine learning pipelines](https://medium.com/codex/testing-software-code-a-python-practical-guide-5b92b79879b5)
 * [Matthew Seal: Data and ETL with Notebooks in Papermill | PyData LA 2019](https://www.youtube.com/watch?v=7ER9tqiNack)
