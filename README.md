@@ -1,4 +1,4 @@
-# Pipeline skeleton
+# Pipeline Skeleton
 
 [WIP] [DRAFT] to be used for upcoming experiments.
 
@@ -11,7 +11,7 @@
 * [TODO](#todo-)
 * [Resources](#resources-)
 
-## Purpose [↑](#pipeline-skeleton)
+## Purpose [↑](#toc)
 
 * Explore with production in mind
 * Fast prototyping and conversion to value
@@ -23,7 +23,7 @@
   * Save artifacts
   * Prepare deployment
 
-## Guidance [↑](#pipeline-skeleton)
+## Guidance [↑](#toc)
 
 <img src="./assets/DS-Platform-Team_Backend_Netflix.PNG" alt="DS-Platform-Team_Backend_Netflix.PNG" width="40%" height="40%" />
 
@@ -33,7 +33,7 @@
 
 [Open-Sourcing Metaflow, a Human-Centric Framework for Data Science](https://netflixtechblog.com/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9)
 
-## Pipelines [↑](#pipeline-skeleton)
+## Pipelines [↑](#toc)
 
 ### Simple pipeline
 * Jupyter notebooks (.ipynb), [Try](https://jupyter.org/try), [Docs](https://docs.jupyter.org/), [Github](https://github.com/jupyter/jupyter)
@@ -68,6 +68,7 @@
 ### Alternative vanilla pipeline with OSS tools
 
 * Conceptual pipeline with tools that could be used if OSS is required
+* Data preparation with [sklearn pipelines](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)
 * [Data Version Control (DVC)](https://dvc.org)
 * Sweeps with AutoML or [AutoGluon](https://auto.gluon.ai)
 * Logn/Mon/Alert with [TensorBoard](https://www.tensorflow.org/tensorboard) or [Grafana](https://grafana.com/)
@@ -84,16 +85,18 @@
 
 <img src="./assets/ML-Pipeline-Deploy.draw.io.png" alt="ML-Pipeline-Deploy.draw.io.png" width="30%" height="30%" />
 
-## Usage [↑](#pipeline-skeleton)
+## Usage [↑](#toc)
 
 **TODO**
 
-## TODO [↑](#pipeline-skeleton)
+## TODO [↑](#toc)
 
 * [ ] Use for repo template
 * [ ] Export similarities with app-skeleton into repo template
+* [ ] Test-Driven Data Analysis (Python TDDA library), [Docu](https://github.com/tdda/tdda), [Github](https://github.com/tdda/tdda), [Cheat Sheet](http://www.tdda.info/pdf/tdda-quickref.pdf)
+  * discover, verify, detect, rexpy, reference tests, generate tests
 
-## Resources [↑](#pipeline-skeleton)
+## Resources [↑](#toc)
 
 * Netflix Metaflow, [Announcement](https://netflixtechblog.com/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9), [Docs](https://docs.metaflow.org/introduction/what-is-metaflow), [Github](https://github.com/Netflix/metaflow)
 * [Testing software - a practical guide to write tests for machine learning pipelines](https://medium.com/codex/testing-software-code-a-python-practical-guide-5b92b79879b5)
